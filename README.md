@@ -1,7 +1,7 @@
 # Airbnb Dashboard 
 
 ## Overview
-This repository contains a *Tableau* dashboard showcasing key insights derived from the Airbnb dataset for the year 2016. Due to the size of the dataset, only data from 2016 was used for this project. The dashboard visualizes key metrics such as the distribution of listings, average prices, availability, and review scores.This project uses the JOIN operation to combine multiple tables into one dataset for visualization.
+This repository contains a **Tableau** dashboard showcasing key insights derived from the Airbnb dataset for the year 2016. Due to the size of the dataset, only data from 2016 was used for this project. The dashboard visualizes key metrics such as the distribution of listings, average prices, availability, and review scores.This project uses the JOIN operation to combine multiple tables into one dataset for visualization.
 
 ## Features
 - *Avg Price per Bedroom:* A bar chart showing the average price for Airbnb listings based on the number of bedrooms.
@@ -17,8 +17,7 @@ This repository contains a *Tableau* dashboard showcasing key insights derived f
 ## How to Use
 Clone the repository:
    ```
-   git clone https://github.com/yourusername/airbnb-dashboard.git
+   git clone https://github.com/Jeyhunaa/airbnb-dashboard.git
 ```
-View the included dataset (directory.csv)  to understand the data behind the visualizations.
-For details on how the data was processed, refer to the [Tableau Full Project.xlsx](#Tableau_Full_Project.xlsx) section below.
+View the included dataset ([Tableau Full Project.xlsx](#Tableau_Full_Project.xlsx)) to understand the data behind the visualizations.
 
