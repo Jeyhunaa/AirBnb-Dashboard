@@ -20,4 +20,5 @@ Clone the repository:
    git clone https://github.com/yourusername/airbnb-dashboard.git
 ```
 View the included dataset (directory.csv)  to understand the data behind the visualizations.
-For details on how the data was processed, refer to the [directory.csv](#directory.csv) section below.
+For details on how the data was processed, refer to the [Tableau Full Project.xlsx](#TableauFullProject.xlsx) section below.
+
