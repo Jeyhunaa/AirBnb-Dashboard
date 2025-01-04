@@ -16,7 +16,6 @@ This repository contains a *Tableau* dashboard showcasing key insights derived f
 
 ## How to Use
 Clone the repository:
-   bash
    ```
    git clone https://github.com/yourusername/airbnb-dashboard.git
 ```
